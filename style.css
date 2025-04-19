@@ -7,7 +7,7 @@
 
 body {
     font-size: 1rem;
-    font-family: 'Montserrat';
+    font-family: "Montserrat";
 }
 
 header {
@@ -27,7 +27,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url("img/4965007.jpg");
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -78,8 +78,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url("img/flor.png") top right no-repeat,
+        url("img/flor-esquerda.png") bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -95,7 +95,7 @@ section {
 
 
 h2 {
-    font-family: 'Lemon', serif;
+    font-family: "Lemon", serif;
     font-size: 2.5em;
     font-style: normal;
     color: var(--laranja-claro);
@@ -112,7 +112,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url("img/4965007.jpg");
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
